@@ -1,0 +1,13 @@
+.player{
+    border: 1px solid goldenrod;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+}
+/* .player button{
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    /* background-color: gold; 
+} */

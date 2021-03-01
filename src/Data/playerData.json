@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "name": "Chris Gayle",
+    "salary": 150000,
+    "country": "West Indies",
+    "role": "Batsman"
+  }, {
+    "id": 2,
+    "name": "Steven Smith",
+    "salary": 100000,
+    "country": "Australia",
+    "role": "Batsman"
+  }, {
+    "id": 3,
+    "name": "Shakib Al Hasan",
+    "salary": 90000,
+    "country": "Bangladesh",
+    "role": "All-Rounder"
+  }, {
+    "id": 4,
+    "name": "Pat Cummins",
+    "salary": 95000,
+    "country": "Australia",
+    "role": "Bowler"
+  }, {
+    "id": 5,
+    "name": "Neil Wagner",
+    "salary": 85000,
+    "country": "New Zealand",
+    "role": "Bowler"
+  }, {
+    "id": 6,
+    "name": "Jason Holder",
+    "salary": 91000,
+    "country": "West Indies",
+    "role": "All-Rounder"
+  }, {
+    "id": 7,
+    "name": "Mushfiqur Rahim",
+    "salary": 86000,
+    "country": "Bangladesh",
+    "role": "WK-Batsman"
+  }, {
+    "id": 8,
+    "name": "Tamim Iqbal",
+    "salary": 84000,
+    "country": "Bangladesh",
+    "role": "Batsman"
+  }, {
+    "id": 9,
+    "name": "Mominul Haque",
+    "salary": 80000,
+    "country": "Bngladesh",
+    "role": "Batsman"
+  }, {
+    "id": 10,
+    "name": "Mahmudullah",
+    "salary": 84000,
+    "country": "Bangladesh",
+    "role": "All-Rounder"
+  }, {
+    "id": 11,
+    "name": "Taijul Islam",
+    "salary": 75000,
+    "country": "Bangladesh",
+    "role": "Bowler"
+  }, {
+    "id": 12,
+    "name": "Mehidy Hasan",
+    "salary": 78000,
+    "country": "Bangladesh",
+    "role": "All-Rounder"
+  }, {
+    "id": 13,
+    "name": "Mitchell Starc",
+    "salary": 98000,
+    "country": "Australia",
+    "role": "Bowler"
+  }, {
+    "id": 14,
+    "name": "Trent Boult",
+    "salary": 100000,
+    "country": "New Zealand",
+    "role": "Bowler"
+  }, {
+    "id": 15,
+    "name": "Chris Woakes",
+    "salary": 95000,
+    "country": "England",
+    "role": "All-Rounder"
+  }]
